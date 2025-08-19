@@ -1,0 +1,182 @@
+{
+  "title": {
+    "media": {
+      "url": "https://static.vecteezy.com/system/resources/previews/049/685/731/non_2x/artificial-intelligence-ai-photo.jpg",
+      "caption": "",
+      "credit": "<a href='https://www.computerhistory.org/chess/stl-430b9bbe92716/'>Pinterest</a>"
+    },
+    "text": {
+      "headline": "The Evolution of Machine Learning:<br/>Key Innovations<br/>1950 - 2022",
+      "text": "<p>Machine learning has evolved from early theories of artificial intelligence in the 1950s to powerful systems shaping modern technology. Over the decades, breakthroughs in algorithms, computing power, and data have fueled progress in areas such as vision, language, and decision-making. Today, machine learning drives innovations across industries while raising new questions about ethics, fairness, and the future of intelligent systems.</p>"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://www.youtube.com/watch?v=3wLqsRLvV-c",
+        "caption": "Lesson by Alex Gendler, animation by Patrick Smith",
+        "credit": "TED-Ed:<a href='https://www.youtube.com/@TEDEd'>Alex Gendler</a>"
+      },
+      "start_date": {
+        "year": "1950"
+      },
+      "text": {
+        "headline": "1950 – The Turing Test: Can Machines Talk Like Humans?",
+        "text": "Alan Turing reframed the question of machine intelligence by proposing the 'Turing Test.' Instead of debating if machines could think, he asked whether they could communicate in a way indistinguishable from humans, laying the foundation for AI philosophy and evaluation."
+      }
+    },
+    {
+      "media": {
+        "url": "https://ichef.bbci.co.uk/images/ic/976xn/p02d7byy.jpg",
+        "caption": "A team of scientists work on the Baby – formally known as the Manchester Small-Scale Experimental Machine.",
+        "credit": "TED-Ed:<a href='https://www.bbc.co.uk/teach/articles/zhwp7nb'>Creator of modern computing</a>"
+      },
+      "start_date": {
+        "year": "1950"
+      },
+      "text": {
+        "headline": "Alan Turing and the Birth of the Turing Test",
+        "text": "Turing moved to the University of Manchester, where he explored the potential of computers beyond simple calculation. In 1950, he published a groundbreaking paper proposing the “imitation game,” now known as the Turing Test, to compare human and machine intelligence. This work became his most famous contribution and a cornerstone of Artificial Intelligence."
+      }
+    },
+    {
+      "media": {
+        "url": "https://aiws.net/wp-content/uploads/sites/18/2023/06/black-and-white-photo-of-seven-smiling-men-sitting-on-a-lawn-in-front-of-a-tree-and-a-white-school-building-with-many-windows-2048x1422.png",
+        "caption": "The Dartmouth Conference, June 1956, is recognized as the birth of AI as a field.",
+        "credit": "<a href=\"https://aiws.net/the-history-of-ai/this-week-in-the-history-of-ai-at-aiws-net-the-dartmouth-conference-began-on-june-18-1956/\">AIWS</a>"
+      },
+      "start_date": {
+        "year": "1956"
+      },
+      "text": {
+        "headline": "The Birth of Artificial Intelligence",
+        "text": "At the Dartmouth Workshop, John McCarthy, Marvin Minsky, Claude Shannon, and Nathaniel Rochester coined the term 'Artificial Intelligence.' This event marked the official birth of AI as a research discipline, inspiring decades of innovation."
+      }
+    },
+    {
+      "media": {
+        "url": "https://i0.wp.com/viewfromarchstreet.com/wp-content/uploads/2019/09/img_0337.jpg?resize=636%2C358&ssl=1",
+        "caption": "Frank Rosenblatt with the Mark I Perceptron.",
+        "credit": "<a href='https://viewfromarchstreet.com/2019/09/30/the-perceptron-paved-the-way-for-ai-60-years-too-soon/'>The perceptron paved the way for AI…in the 1950s</a>"
+      },
+      "start_date": {
+        "year": "1958"
+      },
+      "text": {
+        "headline": "The Perceptron: Early Neural Networks",
+        "text": "Frank Rosenblatt developed the perceptron, a simple model inspired by the brain’s neurons. It could learn to recognize basic patterns, marking one of the first practical steps toward machine learning and neural networks."
+      }
+    },
+    {
+      "media": {
+        "url": "https://gsud.cdn-immedia.net/2023/01/eliza-w596.jpg",
+        "caption": "ELIZA, the first chatbot, simulated human conversation through simple pattern matching.",
+        "credit": "Joseph Weizenbaum, MIT (1966)"
+      },
+      "start_date": {
+        "year": "1966"
+      },
+      "text": {
+        "headline": "1966 – ELIZA: The First Chatbot",
+        "text": "MIT researcher Joseph Weizenbaum created ELIZA, a program that mimicked a psychotherapist. Though simple, it demonstrated how natural language processing could create the illusion of human-like conversation."
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.youtube.com/watch?v=FwFduRA_L6Q",
+        "caption": "This is a demo of \"LeNet 1\", the first convolutional network that could recognize handwritten digits with good speed and accuracy.",
+        "credit": "<a href='https://www.geeksforgeeks.org/computer-vision/lenet-5-architecture/'>Lenet Architecture - GeeksForGeeks</a>"
+      },
+      "start_date": {
+        "year": "1989"
+      },
+      "text": {
+        "headline": "CNNs for Handwriting Recognition",
+        "text": "Yann LeCun demonstrated convolutional neural networks (CNNs) for recognizing handwritten digits. This breakthrough proved neural networks could solve real-world problems and laid the groundwork for computer vision."
+      }
+    },
+    {
+      "media": {
+        "url": "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/davidkaufmann/phptG3KGh.jpeg",
+        "caption": "One of the Deep Blue racks on display at the Computer History Museum.",
+        "credit": "Photo: James, <a href='https://commons.wikimedia.org/wiki/File:Deep_Blue.jpg'>CC</a>"
+      },
+      "start_date": {
+        "year": "1996",
+        "month": "2",
+        "day": "10"
+      },
+      "text": {
+        "headline": "Deep Blue Defeats Kasparov",
+        "text": "IBM’s Deep Blue supercomputer defeated world chess champion Garry Kasparov. This was a historic match. It proved that machines could outperform humans in complex strategic reasoning."
+      }
+    },
+    {
+      "media": {
+        "url": "https://images.squarespace-cdn.com/content/v1/5c8e9a223560c34f9070706f/1623693050293-KBTBQXR5MY6M8DLTM36F/Hinton-honorary-degree_3x2.jpeg",
+        "caption": "Geoffrey Hinton, a pioneer of deep learning.",
+        "credit": "<a href='https://web.cs.toronto.edu/news-events/news/u-of-t-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree'>University of Toronto deep learning pioneer Geoffrey Hinton receives honorary degree</a>"
+      },
+      "start_date": {
+        "year": "2006"
+      },
+      "text": {
+        "headline": "The Rise of Deep Learning",
+        "text": "Geoffrey Hinton popularized the term 'deep learning' to describe multi-layered neural networks. This marked the beginning of a new era of breakthroughs in speech recognition, vision, and natural language."
+      }
+    },
+    {
+      "media": {
+        "url": "https://askpromotheus.ai/wp-content/uploads/2025/04/auto-draft-auto-draft-1.jpg",
+        "caption": "ImageNet dataset and AlexNet CNN model fueled the deep learning boom.",
+        "credit": "<a href='https://askpromotheus.ai/artificial-intelligence/history-ai/2012-alexnet-wins-the-imagenet-challenge/'>ImageNet dataset and AlexNet CNN model fueled the deep learning boom.</a>"
+      },
+      "start_date": {
+        "year": "2012"
+      },
+      "text": {
+        "headline": "ImageNet & AlexNet",
+        "text": "Fei-Fei Li’s ImageNet dataset enabled large-scale visual recognition, and AlexNet’s CNN achieved a stunning victory in the 2012 competition. This success triggered the deep learning revolution in AI research."
+      }
+    },
+    {
+      "media": {
+        "url": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*jfoZegBpgfED4MEg3vhlAA.png",
+        "caption": "The Transformer Architecture",
+        "credit": "<a href='https://arxiv.org/abs/1706.03762'>Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin</a>"
+      },
+      "start_date": {
+        "year": "2017"
+      },
+      "text": {
+        "headline": "Transformers Revolutionize AI",
+        "text": "The 'Attention is All You Need' paper introduced transformers, a new neural architecture. This innovation transformed natural language processing. It later became the backbone of modern large language models like GPT."
+      }
+    },
+    {
+      "media": {
+        "url": "https://images.prismic.io/turing/Z-7V5ndAxsiBwS7Z_Top_Generative_AI_Tools_and_Apps-1-.png?auto=format,compress",
+        "caption": "Top genAI tools and applications across industries",
+        "credit": "OpenAI, Google DeepMind, Microsoft Copilot"
+      },
+      "start_date": {
+        "year": "2022"
+      },
+      "text": {
+        "headline": "The Generative AI Boom",
+        "text": "Generative AI exploded into mainstream use with tools like ChatGPT, GPT-4, DALL·E, Gemini, and Copilot. These systems brought conversational AI, image generation, and multimodal capabilities to millions worldwide."
+      }
+    },
+    {
+      "start_date": {
+        "day": "19",
+        "month": "08",
+        "year": "2025"
+      },
+      "text": {
+        "headline": "References",
+        "text": "Vaswani, A., et al. (2017). Attention Is All You Need. ArXiv.org. https://arxiv.org/abs/1706.03762<br/><br/>News, T. (2021, June 11). Department of Computer Science, University of Toronto. Department of Computer Science, University of Toronto. https://web.cs.toronto.edu/news-events/news/u-of-t-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree<br/><br/>Deep Blue - Chess Engines. (2025). Chess.com. https://www.chess.com/terms/deep-blue-chess-computer"
+      }
+    }
+  ]
+}
